@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Baljeet Singh
-- 👀 I’m interested in enhancing the Java Concepts
+- 👀 I’m interested in enhancing the Java Knowledge
 - 🌱 I’m currently learning Java 8, Java9, Java 10, Java 11 feartures
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bali.ssk@gmail.com
